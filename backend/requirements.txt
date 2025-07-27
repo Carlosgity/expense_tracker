@@ -1,0 +1,6 @@
+### backend/requirements.txt
+fastapi
+uvicorn
+psycopg2-binary
+python-dotenv
+python-multipart
